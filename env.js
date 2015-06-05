@@ -61,7 +61,7 @@ function config ( ) {
     'units': 'mg/dL'
     , 'timeFormat': '12'
     , 'nightMode': false
-    , 'showRawbg': 'never'
+    , 'showRawbg': 'always'
     , 'customTitle': 'Vlad Stroescu aka Goghi'
     , 'theme': 'default'
     , 'alarmUrgentHigh': true
