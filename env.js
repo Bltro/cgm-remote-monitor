@@ -62,7 +62,7 @@ function config ( ) {
     , 'timeFormat': '12'
     , 'nightMode': false
     , 'showRawbg': 'never'
-    , 'customTitle': 'Nightscout'
+    , 'customTitle': 'Vlad Stroescu aka Goghi'
     , 'theme': 'default'
     , 'alarmUrgentHigh': true
     , 'alarmHigh': true
